@@ -36,12 +36,18 @@ def naming_system = {
     label: "Phylum",
     sub_category: {
     label: "Class"
+<<<<<<< HEAD
     },
 }
+=======
+end
+def naming_system = {
+>>>>>>> b8c6ad299f7cb9650b7e4b3c344fd1d39519d7db
  PORTION_2 => {
  label: "Order"
   }
 }  
+<<<<<<< HEAD
 PORTION_3 = {
  label: "Family",
  sub_category: {
@@ -53,6 +59,8 @@ PORTION_3 = {
    sub_category: nil
  },
 }
+=======
+>>>>>>> b8c6ad299f7cb9650b7e4b3c344fd1d39519d7db
  end
 
   # Remember:
